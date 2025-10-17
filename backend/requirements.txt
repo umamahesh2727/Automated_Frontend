@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-pymongo
+pillow
+torch
+torchvision
+huggingface_hub
+requests
+gunicorn
